@@ -23,9 +23,9 @@ var db = require('knex')({
   client: 'pg',
   connection: {
     host : '127.0.0.1',
-    user : '',
-    password : '',
-    database : 'crud-practice-1'
+    user : 'postgres',
+    password : 'Nepal#1515',
+    database : 'crud-practice'
   }
 });
 
